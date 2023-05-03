@@ -1,0 +1,29 @@
+360H Api document
+
+https://documenter.getpostman.com/view/23189630/2s93RWNqyh#74772734-b31c-440b-8f6f-8003e4a6ce13
+
+jira
+
+https://nare-123.atlassian.net/jira/software/c/projects/XT/issues/?cloudId=90966ea3-d2d3-4a4e-909e-39cb22e0f10b&filter=updatedrecently
+
+test cases sheet
+
+https://docs.google.com/spreadsheets/d/1O15cE7AwKwhzG7TM5Jk_fTpUb80rZdd-8Ntteb038dA/edit#gid=734767705
+
+https://docs.google.com/spreadsheets/d/1O15cE7AwKwhzG7TM5Jk_fTpUb80rZdd-8Ntteb038dA/edit#gid=734767705
+
+git download url
+
+https://git-scm.com/downloads
+
+android studio download
+
+https://developer.android.com/studio
+
+api pratice url
+
+doubts
+
+post register unsuccessfull
+
+https://reqres.in/
